@@ -1,5 +1,5 @@
 # MinecraftPython
-This repository provides a tutorial for those who want to learn Python with Minecraft.
+This repository provides a tutorial for those who want to learn Python with Minecraft. (cowork with ChatGPT)
 
 You will learn how to use Python to talk to Minecraft and do fun things like:
 - Send chat messages
@@ -11,7 +11,7 @@ You will learn how to use Python to talk to Minecraft and do fun things like:
 ## ✨ What you need
 
 - Minecraft Java Edition (version 1.12.2)
-- Python 3 (we recommend 3.10)
+- Python 3 (recommend 3.10)
 - Forge 1.12.2 (to run mods)
 - Raspberry Jam Mod (to connect Python and Minecraft)
 - mcpi Python package
