@@ -21,12 +21,12 @@ You will learn how to use Python to talk to Minecraft and do fun things like:
 
 ## 📥 Download links
 
-| Item              | Link                                                                                     |
-|-------------------|------------------------------------------------------------------------------------------|
-| Minecraft Java    | https://www.minecraft.net                                                                |
-| Forge 1.12.2     | https://files.minecraftforge.net/net/minecraftforge/forge/index_1.12.2.html              |
-| Raspberry Jam Mod | https://www.curseforge.com/minecraft/mc-mods/raspberry-jam-mod                          |
-| Java 8           | https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html (need account) |
+| Item              | Link                                                                                          |
+|-------------------|-----------------------------------------------------------------------------------------------|
+| Minecraft Java    | https://www.minecraft.net                                                                     |
+| Forge 1.12.2      | https://files.minecraftforge.net/net/minecraftforge/forge/index_1.12.2.html                   |
+| Raspberry Jam Mod | https://github.com/arpruss/raspberryjammod/tree/master                                        |
+| Java 8            | https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html (need account) |
 
 ---
 
